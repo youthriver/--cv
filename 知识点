@@ -1,2 +1,6 @@
 sift特征点详解：https://blog.csdn.net/zddblog/article/details/7521424
-
+SIFT开源代码：
+http://www.vlfeat.org vlfeat开源图像处理库，其中http://www.vlfeat.org/api/sift.html关于其代码中一些细节和SIFT原理的解释。
+http://robwhess.github.io/opensift/ RobHess sift
+http://www.cs.ubc.ca/~lowe/research.html  David Lowe Research Projects中的SIFT
+http://docs.opencv.org/2.4/modules/nonfree/doc/feature_detection.html OpenCV2.4以后的版本已实现了SIFT，其源码和RobHess的很相似。
